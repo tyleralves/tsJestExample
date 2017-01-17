@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1484613359278" clover="3.2.0">
+  <project timestamp="1484613359279" name="All files">
+    <metrics statements="42" coveredstatements="40" conditionals="9" coveredconditionals="6" methods="13" coveredmethods="12" elements="64" coveredelements="58" complexity="0" loc="42" ncloc="42" packages="2" files="2" classes="2">
+      <package name="__tests__.containers">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <file name="MainContainer-test.tsx" path="C:\Users\Tyler\WebstormProjects\ReduxCourse\__tests__\containers\MainContainer-test.tsx">
+          <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="21" count="1" type="stmt"/>
+          <line num="22" count="1" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="app.containers.Main">
+        <metrics statements="23" coveredstatements="21" conditionals="9" coveredconditionals="6" methods="7" coveredmethods="6"/>
+        <file name="MainContainer.tsx" path="C:\Users\Tyler\WebstormProjects\ReduxCourse\app\containers\Main\MainContainer.tsx">
+          <metrics statements="23" coveredstatements="21" conditionals="9" coveredconditionals="6" methods="7" coveredmethods="6"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="12" count="5" type="stmt"/>
+          <line num="13" count="5" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="15" count="1" type="stmt"/>
+          <line num="19" count="5" type="stmt"/>
+          <line num="22" count="5" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+          <line num="25" count="6" type="stmt"/>
+          <line num="27" count="6" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="33" count="6" type="stmt"/>
+          <line num="37" count="1" type="stmt"/>
+          <line num="39" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
